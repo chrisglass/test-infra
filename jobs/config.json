@@ -3491,7 +3491,7 @@
   "scenario": "kubernetes_e2e",
   "args": [
     "--env-file=platforms/gke.env",
-    "--env-file=jobs/ci-kubernetes-e2e-gce-ubuntu"
+    "--env-file=jobs/ci-kubernetes-e2e-gce-ubuntu.env"
   ]
 }
 }
